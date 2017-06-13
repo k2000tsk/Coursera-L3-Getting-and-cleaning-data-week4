@@ -9,5 +9,7 @@
 
 3. set the directory
   - session >> Set working directory >> Choose directory
+  - for me(C:/Users/SKTelecom/Desktop/python/R studio/Getting and Cleaning Data/week4/)
   
 4. Run R code
+  - execute
