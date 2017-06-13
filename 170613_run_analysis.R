@@ -74,4 +74,4 @@ for(i in 1:nrow(num_of_activity)){
 }
 
 # store the CSV file, which name is "final_result.txt"
-write.table(final_result,"final_result.txt",sep="\t")
+write.table(final_result,"final_result.txt",sep="\t",row.names=FALSE)
